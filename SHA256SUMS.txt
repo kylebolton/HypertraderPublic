@@ -1,0 +1,2 @@
+7f3a7f1acdbe6a1f3f234d5ac6d9650ddff6cb60f247bbd27c1812856ef07538  HyperTrader-arm64.dmg
+473b8f5f32faf016dad84268df336347bfbd3eb5e15c168d3eef9b676146e9a9  HyperTrader-x64.dmg
